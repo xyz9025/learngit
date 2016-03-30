@@ -9,3 +9,5 @@ I learning git.
 即将出发去上海。
 
 测试分支管理策略,修复bug
+
+正在学习git
